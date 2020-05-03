@@ -16,14 +16,14 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   array_literal=[
-   [ 
-     {:DON_G => { name: => "Don Gately", occupation: => "Live-in Staff" },
+   [
+     {:DON_G => 
+     { name: => "Don Gately", occupation: => "Live-in Staff" },
      }
      ],
      [
-       {
-    :JOELLE_VD => { 
-      name: => "Joelle van Dyne", 
+       {:JOELLE_VD => 
+       { name: => "Joelle van Dyne", 
       occupation: => "Radio Personality" }
        }
        ],
