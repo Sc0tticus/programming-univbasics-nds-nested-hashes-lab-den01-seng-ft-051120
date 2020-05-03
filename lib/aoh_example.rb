@@ -17,8 +17,7 @@ def literal_aoh
   # held in the constants
   array_literal=[
    [ 
-     {
-       :DON_G => { name: => "Don Gately",occupation: => "Live-in Staff" },
+     {:DON_G => { name: => "Don Gately", occupation: => "Live-in Staff" },
      }
      ],
      [
