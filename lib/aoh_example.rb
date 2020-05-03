@@ -17,19 +17,15 @@ def literal_aoh
   # held in the constants
   array_literal=[
    [
-     {:DON_G => 
-     { name: => "Don Gately", occupation: => "Live-in Staff" },
+     {:DON_G => { name: => "Don Gately", occupation: => "Live-in Staff" },
      }
      ],
      [
-       {:JOELLE_VD => 
-       { name: => "Joelle van Dyne", 
-      occupation: => "Radio Personality" }
+       {:JOELLE_VD => { name: => "Joelle van Dyne", occupation: => "Radio Personality" }
        }
        ],
        [
-         {
-    :PAT_M =>  { 
+         {:PAT_M =>  { 
       name: => "Pat Monteseian", 
       occupation: => "Staff" }
          }
